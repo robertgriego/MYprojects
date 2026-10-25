@@ -1,0 +1,15 @@
+{
+  "_note": "Jobs already emailed or already reviewed. Key = 'company | title | location' lowercased. The daily run appends to this and commits it.",
+  "seen": {
+    "base power co | material planner | austin, tx": "2026-10-21 reviewed",
+    "protelo | sr business consultant, acumatica erp | remote": "2026-10-21 reviewed",
+    "tesla | equipment spares planner | austin, tx": "2026-10-21 reviewed",
+    "tesla | demand planner, megapack | austin, tx": "2026-10-21 reviewed",
+    "tesla | supply chain manager, manufacturing capex | austin, tx": "2026-10-21 reviewed",
+    "sierra space | sr data analyst, supply chain | louisville, co": "2026-10-21 reviewed",
+    "double good | erp manager d365 | elmhurst, il": "2026-10-21 reviewed",
+    "nomad gcs | supply chain planning & purchasing manager | columbia falls, mt": "2026-10-21 reviewed",
+    "reliable safety & flow | supply chain planner | oak brook, il": "2026-10-21 reviewed",
+    "mercor | inventory planner | remote": "2026-10-21 rejected"
+  }
+}
