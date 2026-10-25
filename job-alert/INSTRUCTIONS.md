@@ -19,7 +19,7 @@ deliberately moving to **individual-contributor** roles.
 
 ## Hard requirements (exclude if any fail)
 
-1. **Salary ≥ $100,000.** Exclude if the posted range tops out below $100K. If no salary is
+1. **Salary ≥ $80,000.** Exclude if the posted range tops out below $80K. If no salary is
    posted, include it and say "not listed".
 2. **Full-time, W-2, salaried.** Exclude contract, 1099, hourly, part-time, temp, and gig work.
    Exclude AI-training/evaluation gigs that use planning titles, like Mercor.
@@ -44,7 +44,7 @@ Business Analyst · ERP Implementation Consultant
 ## Where to search
 
 1. **Indeed** (`search_jobs`, job_type `fulltime`), **ZipRecruiter** (`search_jobs`,
-   `salary_min: 100000`, `employment_types: ["FULL_TIME"]`, `max_posted_minutes_ago: 4320`), and
+   `salary_min: 80000`, `employment_types: ["FULL_TIME"]`, `max_posted_minutes_ago: 4320`), and
    **Dice** (`search_jobs`, `posted_date: "THREE"`, `employment_types: ["FULLTIME"]`).
    Run the target titles across the locations: `remote`, `Austin, TX`, `San Antonio, TX`,
    `Denver, CO`, `Colorado Springs, CO`, `Montana`, `Chicago, IL`. You don't need every
