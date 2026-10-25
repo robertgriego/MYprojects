@@ -60,8 +60,26 @@ Business Analyst · ERP Implementation Consultant
    `https://api.ashbyhq.com/posting-api/job-board/{slug}`). Watchlist: Base Power, Tesla, Sierra
    Space, plus Austin-area manufacturers. Skip any that fail. Don't spend long on them.
 
-For promising results whose title is ambiguous, pull the full description (`get_job_details`)
-to check management duties, employment type, and salary before including it.
+## Read the full posting (required)
+
+Before a job goes in the digest, **read its full posting.** Search-result snippets don't count.
+- Indeed: `get_job_details` with the job ID.
+- Dice: `get_job_details` with the job's `guid`.
+- ZipRecruiter and everything else: fetch the posting URL with WebFetch. If the redirect page
+  doesn't show the description, search the web for the company's own posting and fetch that.
+
+From the full posting, confirm: direct reports or supervision duties, degree requirement
+(and whether "or equivalent experience" is accepted), employment type, salary, on-site,
+hybrid or remote status, and the ERP/MRP systems named. Apply the hard requirements to what
+the posting actually says.
+
+If the full posting can't be opened after two tries, the job can still go in the digest, but
+its Concerns line must start with "Couldn't open full posting —". Don't write "I did not read
+the full description" for a posting you could have opened.
+
+To keep the run a reasonable length, screen the search results by title, location and
+salary first, then read full postings only for the jobs that survive that first pass. That's
+usually 10–25 postings.
 
 ## Dedupe
 
