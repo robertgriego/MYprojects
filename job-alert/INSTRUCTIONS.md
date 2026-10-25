@@ -78,10 +78,26 @@ appears on several boards, so merge duplicates within today's run too.
 - Note startup risk or known high-turnover employers in concerns instead of excluding them.
 - Remote ranks above relocation.
 
+## Step order (important)
+
+1. Search and screen.
+2. Update `seen_jobs.json`. Add every job you will email **and** every job you looked at
+   closely and rejected, using today's date and `sent` or `rejected`. Then commit and push to
+   the `job-alert` branch:
+   ```
+   git add job-alert/seen_jobs.json
+   git commit -m "job-alert: seen jobs <YYYY-MM-DD>"
+   git push -u origin job-alert
+   ```
+   Try the push once. If it fails, move on and note it in the digest's last line.
+3. **Write the digest as your very last message, then stop.** Make no tool calls after it, no
+   push retries, no notifications, and no follow-up message. Only the final message is
+   emailed, so anything after the digest replaces it.
+
 ## Output — the email
 
-Your **final message is emailed to Rob**, so it must be the digest itself, with no
-process narration. Format:
+The final message is emailed to Rob, so it must be the digest itself, with no process
+narration. Format:
 
 ```
 Job Alert — <Weekday, Month D>  ·  <N> new matches
@@ -101,18 +117,4 @@ Job Alert — <Weekday, Month D>  ·  <N> new matches
 - Keep the full URLs exactly as returned. Don't shorten or strip parameters.
 - If there are no new matches, the whole message is: `Job Alert — <date>: no new matches today.`
 - End with one line: `Searched: Indeed, ZipRecruiter, Dice, Acumatica partners` (list whichever
-  sources actually worked, and name any that failed).
-
-## Before finishing
-
-Add every job you emailed **and** every job you looked at closely and rejected to
-`seen_jobs.json`, using today's date and `sent` or `rejected`. Then commit and push to the
-`job-alert` branch:
-
-```
-git add job-alert/seen_jobs.json
-git commit -m "job-alert: seen jobs <YYYY-MM-DD>"
-git push -u origin job-alert
-```
-
-If the push fails, still send the digest. Mention the failure in the last line.
+  sources actually worked, and name any that failed, including a failed push).
