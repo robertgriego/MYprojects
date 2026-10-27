@@ -35,6 +35,12 @@ deliberately moving to **individual-contributor** roles.
    - Chicago, IL metro area
    - Quad Cities (Moline, Rock Island, East Moline, Silvis IL; Davenport, Bettendorf IA)
    - Bloomington–Normal, IL
+5. **No required SQL, Python or other programming.** Rob has no SQL or Python experience.
+   Exclude jobs that list SQL, Python, R or another programming language as a requirement
+   ("required", "must have", "proficiency in", or among the minimum qualifications). If it's
+   only "preferred", "a plus" or "nice to have", the job can stay, but say so in Concerns
+   (e.g. "SQL preferred"). Excel, Power BI, ERP report writers and Velixo don't count as
+   programming.
 
 ## Target titles (search terms)
 
