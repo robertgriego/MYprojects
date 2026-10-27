@@ -10,10 +10,12 @@ Robert (Rob) Griego, Austin TX area. 10 years in production planning and manufac
 deliberately moving to **individual-contributor** roles.
 
 - ERP/MRP: **Acumatica** (MRP config, Import Scenarios, multi-warehouse, work order automation),
-  Microsoft Dynamics AX2012, Fishbowl MRP
+  **Microsoft Dynamics 365 (D365)** and Dynamics AX 2012. D365 roles count as a strong ERP match.
 - Tools: advanced Excel, Velixo NX, Microsoft Project
-- Domains: production scheduling, capacity/demand planning, forecasting, inventory management,
-  labor analytics, root cause analysis, KPI reporting; Lean, 5S, Kanban, ISO 9001/14001
+- Planning: master production scheduling (MPS), net requirements/MRP, MTO, CTO and MTS items,
+  production scheduling, capacity/demand planning, forecasting, inventory management
+- Manufacturing data: BOM maintenance, routings and operations, labor tracking
+- Also: labor analytics, root cause analysis, KPI reporting; Lean, 5S, Kanban, ISO 9001/14001
 - Products: discrete electro-mechanical assemblies and engineered-to-order industrial equipment
 - Education: CS coursework at UTSA, **no completed bachelor's degree**
 
