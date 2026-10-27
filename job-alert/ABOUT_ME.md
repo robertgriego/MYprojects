@@ -6,8 +6,8 @@ Production and materials planner with 10 years of hands-on planning in manufactu
 the master production schedule and net requirements for MTO, CTO and MTS items in Acumatica,
 Dynamics 365 and Dynamics AX 2012, and maintained BOMs, routings and operations. I cut
 production lead times from 2–4 weeks to 5–10 days by moving shortage tracking from Excel into
-Acumatica MRP and fixing the min/max settings behind recurring stockouts. I'm looking for an
-individual-contributor planning role.
+Acumatica MRP. At Thermon I cut CTO lead times from 12–13 weeks to 4–5 weeks and late orders from
+800+ to 5. I'm looking for an individual-contributor planning role.
 
 ## Standard version (application questions, longer summaries)
 
@@ -15,7 +15,10 @@ I'm a production and materials planner with 10 years of planning experience in m
 started as a Planner/Scheduler at Feniex Industries, where I built production schedules for
 electro-mechanical vehicle lightbars made from both purchased and custom-manufactured parts. I
 then worked as a Production Planner at Thermon, where I scheduled engineered-to-order industrial
-heating products.
+heating products. At Thermon I cut CTO lead times from a peak of 12–13 weeks to 4–5 weeks and
+brought late orders down from 800+ to 5, with the last 5 caused by material constraints rather
+than planning or labor capacity. I was also the subject matter expert for Thermon's transition
+from Dynamics AX 2012 to D365, and ran MRP in D365 after the move.
 
 Across those roles, I managed the master production schedule and net requirements, and planned
 make-to-order, configure-to-order and make-to-stock items. I maintained bills of materials,
@@ -37,7 +40,9 @@ ERP/MRP, where I can spend my time doing the planning work directly.
 
 I'm a production and materials planner with about 10 years in manufacturing. I started as a
 planner/scheduler at Feniex, building production schedules for vehicle lightbars, and then
-worked as a production planner at Thermon in San Marcos.
+worked as a production planner at Thermon in San Marcos, where I cut lead times on
+configure-to-order items from 12 to 13 weeks down to 4 to 5, and got late orders from over 800
+down to 5. I was also the subject matter expert for Thermon's move from AX 2012 to D365.
 
 In those roles I managed the master schedule and net requirements, planned make-to-order,
 configure-to-order and make-to-stock items, and kept the BOMs and routings accurate, in
