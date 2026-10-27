@@ -11,15 +11,14 @@ deliberately moving to **individual-contributor** roles.
 
 - ERP/MRP: **Acumatica** (MRP config, Import Scenarios, multi-warehouse, work order automation),
   **Microsoft Dynamics 365 (D365)** and Dynamics AX 2012 (both at Thermon; Rob was the SME for
-  Thermon's AX 2012-to-D365 transition and ran MRP in D365). D365 roles count as a strong ERP match.
+  Thermon's AX 2012-to-D365 transition and worked in both). D365 roles count as a strong ERP match.
 - Tools: advanced Excel, Velixo NX, Microsoft Project
 - Planning: master production scheduling (MPS), net requirements/MRP, MTO, CTO and MTS items,
   production scheduling, capacity/demand planning, forecasting, inventory management
 - Manufacturing data: BOM maintenance, routings and operations, labor tracking
 - Also: labor analytics, root cause analysis, KPI reporting; Lean, 5S, Kanban, ISO 9001/14001
 - Results: Feniex — MTO/MTS lead times cut from 2–4 weeks to 5–10 days. Thermon — CTO lead times
-  cut from 12–13 weeks to 4–5 weeks; late orders cut from 800+ to 5 (remaining 5 due to material
-  constraints, not planning or labor capacity).
+  cut from 12–13 weeks to 4–5 weeks; late orders cut from a peak of 800+ to 5.
 - Products: discrete electro-mechanical assemblies and engineered-to-order industrial equipment
 - Education: CS coursework at UTSA, **no completed bachelor's degree**
 

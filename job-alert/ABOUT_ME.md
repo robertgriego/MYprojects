@@ -16,9 +16,8 @@ started as a Planner/Scheduler at Feniex Industries, where I built production sc
 electro-mechanical vehicle lightbars made from both purchased and custom-manufactured parts. I
 then worked as a Production Planner at Thermon, where I scheduled engineered-to-order industrial
 heating products. At Thermon I cut CTO lead times from a peak of 12–13 weeks to 4–5 weeks and
-brought late orders down from 800+ to 5, with the last 5 caused by material constraints rather
-than planning or labor capacity. I was also the subject matter expert for Thermon's transition
-from Dynamics AX 2012 to D365, and ran MRP in D365 after the move.
+brought late orders down from a peak of 800+ to 5. I was also the subject matter expert for
+Thermon's transition from Dynamics AX 2012 to D365, and worked in both environments.
 
 Across those roles, I managed the master production schedule and net requirements, and planned
 make-to-order, configure-to-order and make-to-stock items. I maintained bills of materials,
