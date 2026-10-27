@@ -33,6 +33,8 @@ deliberately moving to **individual-contributor** roles.
    - Anywhere in Colorado
    - Anywhere in Montana
    - Chicago, IL metro area
+   - Quad Cities (Moline, Rock Island, East Moline, Silvis IL; Davenport, Bettendorf IA)
+   - Bloomington–Normal, IL
 
 ## Target titles (search terms)
 
@@ -47,7 +49,8 @@ Business Analyst · ERP Implementation Consultant
    `salary_min: 80000`, `employment_types: ["FULL_TIME"]`, `max_posted_minutes_ago: 4320`), and
    **Dice** (`search_jobs`, `posted_date: "THREE"`, `employment_types: ["FULLTIME"]`).
    Run the target titles across the locations: `remote`, `Austin, TX`, `San Antonio, TX`,
-   `Denver, CO`, `Colorado Springs, CO`, `Montana`, `Chicago, IL`. You don't need every
+   `Denver, CO`, `Colorado Springs, CO`, `Montana`, `Chicago, IL`,
+   `Moline, IL`, `Davenport, IA`, `Bloomington, IL`. You don't need every
    combination every day. Cover every location and the higher-value titles first: Material
    Planner, Production Planner, Supply Chain Planner, Demand Planner, Acumatica/ERP Consultant.
    Aim for about 25–40 searches.
