@@ -57,24 +57,23 @@ My most recent title was Director, but the planning and systems work is what I'm
 what I enjoy, so I'm looking for a role where that's my whole focus. That's why this position
 stood out to me.
 
-## Evidence of excellence
+## Evidence of excellence (Tesla "Evidence of Exceptional Ability" format)
 
-**Standard (~150 words)**
+- **Late orders cut from 800+ to 5:** As production planner at Thermon, I brought late orders down
+  from a peak of 800+ to 5. I did it by managing the master production schedule and net
+  requirements, and by prioritizing back orders, current orders, and upcoming orders across MTO, CTO,
+  and MTS items.
+- **Lead times cut by more than half at two companies:** CTO lead times went from 12–13 weeks to 4–5
+  weeks at Thermon. MTO/MTS lead times went from 2–4 weeks to 5–10 days at Feniex Industries.
+- **ERP migration SME:** I was the subject matter expert for Thermon's transition from Microsoft
+  Dynamics AX 2012 to D365, and worked in both environments.
+- **Systems over spreadsheets:** At Feniex, I replaced manual Excel shortage tracking with
+  Acumatica's native MRP. I also traced recurring stockouts to a min/max setup error and fixed it,
+  which brought 72% of core SKUs up to minimum stock levels.
 
-At Thermon, I took over production planning when late orders had peaked at more than 800 and lead
-times on configure-to-order items had stretched to 12–13 weeks. I rebuilt the plan around the
-master production schedule and net requirements, and I analyzed and prioritized back orders,
-current orders, and upcoming orders across MTO, CTO, and MTS items. Late orders came down from 800+
-to 5, and CTO lead times dropped to 4–5 weeks. I also served as the subject matter expert for
-Thermon's transition from Dynamics AX 2012 to D365, and worked in both environments.
+**Short paragraph**
 
-At Feniex Industries, I moved material shortage tracking from manual Excel into Acumatica's native
-MRP and traced recurring stockouts to a min/max setup error. Production lead times fell from 2–4
-weeks to 5–10 days, and 72% of core SKUs reached their minimum stock levels.
-
-**Short (~60 words)**
-
-At Thermon, I cut late orders from a peak of 800+ to 5 and reduced configure-to-order lead times
-from 12–13 weeks to 4–5 weeks by managing the master schedule and net requirements. At Feniex, I
-moved shortage tracking into Acumatica MRP and fixed a min/max error, cutting lead times from 2–4
-weeks to 5–10 days.
+As production planner at Thermon, I cut late orders from a peak of 800+ to 5 and reduced CTO lead
+times from 12–13 weeks to 4–5 weeks by managing the master schedule and net requirements. I was
+also the SME for Thermon's AX 2012-to-D365 transition. At Feniex, I moved shortage tracking into
+Acumatica MRP and fixed a min/max error, cutting lead times from 2–4 weeks to 5–10 days.
