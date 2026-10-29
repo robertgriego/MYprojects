@@ -77,3 +77,28 @@ As production planner at Thermon, I cut late orders from a peak of 800+ to 5 and
 times from 12–13 weeks to 4–5 weeks by managing the master schedule and net requirements. I was
 also the SME for Thermon's AX 2012-to-D365 transition. At Feniex, I moved shortage tracking into
 Acumatica MRP and fixed a min/max error, cutting lead times from 2–4 weeks to 5–10 days.
+
+## Tesla — Demand Planner, Megapack (Austin)
+
+- **Turned demand into executable plans:** As production planner at Thermon, I managed the master
+  production schedule and net requirements across MTO, CTO, and MTS items. I also quoted lead times
+  to sales based on capacity and market trends.
+- **Late orders cut from 800+ to 5:** I prioritized back orders, current orders, and upcoming orders
+  against capacity, bringing late orders down from a peak of 800+ to 5.
+- **Lead times cut by more than half at two companies:** CTO lead times went from 12–13 weeks to 4–5
+  weeks at Thermon. MTO/MTS lead times went from 2–4 weeks to 5–10 days at Feniex Industries.
+- **ERP migration SME:** I was the subject matter expert for Thermon's transition from Microsoft
+  Dynamics AX 2012 to D365, and worked in both environments.
+
+## Tesla — Equipment Spares Planner (Austin)
+
+- **Fixed the root cause of recurring stockouts:** At Feniex, I traced repeated stockouts to a
+  min/max setup error in the ERP and corrected it. I also revised the backflush materials process to
+  stop the inventory discrepancies.
+- **Raised stock health across core SKUs:** I brought 72% of core SKUs to or above minimum stock
+  levels, and hit three-week stock rebuild goals on 9 of 12 tracked SKUs.
+- **Replenishment and MRP in three ERPs:** I managed the Kanban replenishment system at Thermon and
+  was the SME for its AX 2012-to-D365 transition. At Feniex, I moved shortage tracking from Excel
+  into Acumatica's native MRP.
+- **Delivery results:** Late orders cut from 800+ to 5, and lead times cut by more than half at two
+  companies.
