@@ -68,7 +68,17 @@ Business Analyst · ERP Implementation Consultant
 2. **Acumatica partner (VAR) career pages.** These are the best-documented IC lane. Check with
    web fetch/search: Protelo, Crestwood Associates, SWK Technologies, Net at Work, NexTec,
    DSD Business Systems. Also search the web for "Acumatica consultant" remote job postings.
-3. **ATS boards** for watchlist companies if reachable (Greenhouse
+3. **WorkInTexas** (Texas Workforce Commission job board), as a guest with no sign-in. Search
+   planner titles (Production Planner, Material Planner, Supply Chain Planner, Demand Planner,
+   Master Scheduler) within about 50 miles of Austin, TX (zip 78701). Guest entry:
+   `https://www.workintexas.com/vosnet/guest.aspx?enc=ibDvqgkMdlbN94IqjnW5eLcr3yrSKAbM84LPquKpfltXSlCMCRdmzr0PrnemcQSX`.
+   The site sits behind a bot wall (Incapsula), and its search form runs on JavaScript, so
+   WebFetch can't submit a query to `jobbanks/joblist.aspx`. Plain URL parameters return
+   "0 Records Found". Spend at most 2 tries. If there are no results, also search the web
+   for "WorkInTexas" planner postings in Austin (aggregators like Tallo mirror them). If that
+   fails too, list WorkInTexas as failed in the "Searched:" line. Don't try to get around
+   the bot check.
+4. **ATS boards** for watchlist companies if reachable (Greenhouse
    `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs`, Lever
    `https://api.lever.co/v0/postings/{slug}?mode=json`, Ashby
    `https://api.ashbyhq.com/posting-api/job-board/{slug}`). Watchlist: Base Power, Tesla, Sierra
@@ -148,5 +158,5 @@ Job Alert — <Weekday, Month D>  ·  <N> new matches
   skipped".
 - Keep the full URLs exactly as returned. Don't shorten or strip parameters.
 - If there are no new matches, the whole message is: `Job Alert — <date>: no new matches today.`
-- End with one line: `Searched: Indeed, ZipRecruiter, Dice, Acumatica partners` (list whichever
+- End with one line: `Searched: Indeed, ZipRecruiter, Dice, WorkInTexas, Acumatica partners` (list whichever
   sources actually worked, and name any that failed, including a failed push).
