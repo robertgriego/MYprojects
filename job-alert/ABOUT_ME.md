@@ -102,3 +102,33 @@ Acumatica MRP and fixed a min/max error, cutting lead times from 2–4 weeks to 
   into Acumatica's native MRP.
 - **Delivery results:** Late orders cut from 800+ to 5, and lead times cut by more than half at two
   companies.
+
+## Ursa Major — Senior Supply Planner (Berthoud, CO)
+
+**Why Ursa Major (standard version)**
+
+The Senior Supply Planner role is the work I do best. Owning the master production schedule,
+running MRP, and keeping lead times, lot sizes and safety stock set correctly are the parts of my
+10 years in planning I'm proudest of. I want a role where that planning work is my whole focus.
+
+I'm also drawn to what Ursa Major builds. At Thermon I planned engineered-to-order industrial
+equipment, so I know low-volume, high-mix scheduling, where one missing part can hold up a whole
+build. I'd like to bring that to propulsion systems, where hitting the schedule matters to
+defense and launch programs.
+
+Having engineering, manufacturing and testing on one campus matters to me as a planner.
+Shortages get solved fastest when planning, procurement and the floor work closely together.
+That's how I cut late orders at Thermon from 800+ to 5, and CTO lead times from 12–13 weeks to
+4–5 weeks.
+
+The role also includes building supply plans and planning parameters for new hardware, and
+I've built planning processes before. At Feniex I moved shortage tracking from Excel into
+Acumatica MRP and fixed a min/max setup error, which cut lead times from 2–4 weeks to 5–10 days.
+
+**Short version (~500 characters)**
+
+The Senior Supply Planner role is the work I do best: owning the MPS, running MRP and keeping
+planning parameters right. I've planned low-volume engineered-to-order equipment at Thermon,
+where I cut late orders from 800+ to 5, and I'd like to bring that to propulsion systems that
+matter to defense and launch programs. Having engineering, manufacturing and test on one campus
+is how shortages get solved fast, and that's the kind of team I do my best work in.
