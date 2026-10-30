@@ -111,10 +111,11 @@ The Senior Supply Planner role is the work I do best. Owning the master producti
 running MRP, and keeping lead times, lot sizes and safety stock set correctly are the parts of my
 10 years in planning I'm proudest of. I want a role where that planning work is my whole focus.
 
-I'm also drawn to what Ursa Major builds. At Thermon I planned engineered-to-order industrial
-equipment, so I know low-volume, high-mix scheduling, where one missing part can hold up a whole
-build. I'd like to bring that to propulsion systems, where hitting the schedule matters to
-defense and launch programs.
+I'm also drawn to what Ursa Major builds. At Thermon I planned tubing bundles,
+typically about 60,000 meters a month, and most of them were made-to-order or
+engineered-to-order. That taught me to keep custom, order-specific builds on schedule at high
+volume, where one missing part can hold up a customer's order. I'd like to bring that to
+propulsion systems, where hitting the schedule matters to defense and launch programs.
 
 Having engineering, manufacturing and testing on one campus matters to me as a planner.
 Shortages get solved fastest when planning, procurement and the floor work closely together.
@@ -128,7 +129,7 @@ Acumatica MRP and fixed a min/max setup error, which cut lead times from 2–4 w
 **Short version (~500 characters)**
 
 The Senior Supply Planner role is the work I do best: owning the MPS, running MRP and keeping
-planning parameters right. I've planned low-volume engineered-to-order equipment at Thermon,
-where I cut late orders from 800+ to 5, and I'd like to bring that to propulsion systems that
+planning parameters right. At Thermon I planned about 60,000 meters a month of mostly MTO/ETO
+tubing bundles and cut late orders from 800+ to 5, and I'd like to bring that to propulsion systems that
 matter to defense and launch programs. Having engineering, manufacturing and test on one campus
 is how shortages get solved fast, and that's the kind of team I do my best work in.
