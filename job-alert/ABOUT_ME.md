@@ -1,5 +1,16 @@
 # "Tell Us About Yourself" — Rob Griego
 
+## Work history (exact dates, from LinkedIn)
+
+| Title | Company | Dates |
+|---|---|---|
+| Director of Manufacturing | Feniex Industries, Austin, TX | Dec 2024 – Oct 2026 |
+| Production Planner | Thermon, Inc., San Marcos, TX | Feb 2022 – Nov 2024 |
+| Production Manager (resume: Manufacturing Manager) | Feniex Industries, Austin, TX | Oct 2020 – Feb 2022 |
+| Production Planner (resume: Planner/Scheduler) | Feniex Industries, Austin, TX | Oct 2016 – Oct 2020 |
+
+Education: Computer Science coursework, University of Texas at San Antonio, 2012–2015 (no degree).
+
 ## Short version (profile summary, ~500 characters)
 
 Production and materials planner with 10 years of hands-on planning in manufacturing. I managed
